@@ -35,16 +35,16 @@ https://bd.jagobd.com:444/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://i.imgur.com/yGgvoxY.png”, Asian Tv Hd
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 
-##EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://imgur.com/pTJSGtj.png”, Boishakhi tv Hd
+#EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://imgur.com/pTJSGtj.png”, Boishakhi tv Hd
 https://bd.jagobd.com:444/live-orgin/boishakhitv-org.stream/chunks.m3u8
 
-##EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://imgur.com/nYRFnW5.png”, Channel I
+#EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://imgur.com/nYRFnW5.png”, Channel I
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 
-##EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://imgur.com/tPZKfLr.png”, Dipto tv Hd
+#EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://imgur.com/tPZKfLr.png”, Dipto tv Hd
 https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
 
-##EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://imgur.com/GKBkm2e.png”, Dashi Tv
+#EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://imgur.com/GKBkm2e.png”, Dashi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png#EXTINF:-1 group-title="Bangla Channel”, Independenent TV 
@@ -53,7 +53,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://i.ibb.co/0JLNqRC/Itv.jpg”, I Tv
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 
-##EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://i.imgur.com/TRfkhjY.png” group-title=”Bangla”, K Tv
+#EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://i.imgur.com/TRfkhjY.png” group-title=”Bangla”, K Tv
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla Channel"https://imgur.com/Yz9WnlX.png” group-title=”Bangla”, Nan Tv
