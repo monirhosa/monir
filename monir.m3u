@@ -50,7 +50,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png#EXTINF:-1 group-title="Bangla Channel”, Independenent TV 
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.ibb.co/0JLNqRC/Itv.jpg”, I Tv
+#EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://i.ibb.co/0JLNqRC/Itv.jpg”, I Tv
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 
 ##EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://i.imgur.com/TRfkhjY.png” group-title=”Bangla”, K Tv
@@ -59,19 +59,19 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 group-title="Bangla Channel"https://imgur.com/Yz9WnlX.png” group-title=”Bangla”, Nan Tv
 https://bd.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=”https://imgur.com/2Lv6raR.png” group-title=”Bangla”, Nrb Tv
+#EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://imgur.com/2Lv6raR.png”, Nrb Tv
 https://bd.jagobd.com:444/live-orgin/nrb-eu.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=”https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.png” group-title=”Indian bangla”, Sony Aath
+#EXTINF:-1 group-title="Indian Bangla"tvg-logo=”https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.png”, Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
-#EXTINF:-1 tvg-logo=”https://imgur.com/eQ1X7cR.png” group-title=”Bangla”, Bangla 21
+#EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://imgur.com/eQ1X7cR.png”, Bangla 21
 https://bd.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=”https://imgur.com/wD575BA.png” group-title=”Bangla”, Movie Bangla
+#EXTINF:-1 group-title="Bangla Channel"tvg-logo=”https://imgur.com/wD575BA.png”, Movie Bangla
 https://bd.jagobd.com:444/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=”https://i.imgur.com/8HTCcDe.png” group-title=”Indian movie”, Sony Max
+#EXTINF:-1 group-title="Indian movie"tvg-logo=”https://i.imgur.com/8HTCcDe.png”, Sony Max
 http://103.72.179.30:1935/HindiMovies/SONY_MAX.stream_720p/Playlist.m3u8
 
 
